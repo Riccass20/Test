@@ -39,6 +39,7 @@ def calculate_loan():
         result_label3.config(text = f"Please enter valid numbers")
         result_label4.config(text = f"Please enter valid numbers")
 
+
 #Creating the main window
 root = tk.Tk()
 root.title("Copper Winding Resistance Calculator")
